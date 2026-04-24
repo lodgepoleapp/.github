@@ -1,11 +1,3 @@
-# Mission
-
-> To build resilient, purposeful software that grows with the people who use it.
-
-# Who We Are
-
-Lodgepole Appworks is a software studio in Edmonton, Alberta. We build applications that are resilient, purposeful, and designed to grow with the people who depend on them.
-
 # Contributing
 
 We welcome contributions. Before opening a PR, please:
